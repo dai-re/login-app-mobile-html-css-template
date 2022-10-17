@@ -2,7 +2,7 @@
 
 ## todo
 - [x] LOGIN PAGE
-- [ ] SIGN UP PAGE
+- [x] SIGN UP PAGE
 
 `demo` https://daire.eu.org/login-app-mobile-html-css-template/
 
